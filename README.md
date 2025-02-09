@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá! Sou Jaysie 👋
 
-<!--
-**jayjbo/jayjbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou estudante de Análise e Desenvolvimento de Sistemas (3º período) e apaixonada por Ciência de Dados! Atualmente, estou aprimorando minhas habilidades em Python e SQL, utilizando JupyterLab para meus projetos.
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Tenho interesse especial em Ciência de Dados e estou fazendo um curso na área.
+
+🛠þ Desenvolvi um site de compras como projeto.
+
+🎓 Já fui Scrum Master em um projeto da faculdade.
+
+🧑‍🏫 Participei como voluntária em uma feira de animais.
+
+📈 Atualmente, estou criando uma dashboard sobre os gêneros de livros mais lidos no Brasil.
+
+## 💻 Tecnologias & Ferramentas
+
+✨ Python (intermediário)
+
+✨ SQL (intermediário)
+
+✨ JupyterLab
+
+✨ Metodologias Ágeis (Scrum)
+
+✨ HTML e CSS
+
+✨ JavaScript
+
+✨ Linux
